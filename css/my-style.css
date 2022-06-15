@@ -1,0 +1,38 @@
+.wi-align-center{
+    text-align: center;
+}
+
+.wi-bgrd{
+    position: relative;
+    max-width: 600px;
+    background-color: #d1ecf1;
+    height: 100%;
+}
+
+.wi-main-menu{
+    position: absolute;
+    bottom: 1px;
+    width: calc(100% - 25px);
+    padding: 10px;
+    background-color: #9fcdff;
+}
+.wi-main-menu img{
+    width: 40px;
+    height: 40px;
+}
+
+.wi-center{
+
+}
+
+.wi-header{
+
+}
+
+.wi-card img{
+    height: 10%;
+    position: relative;
+    display: block;
+}
+
+
