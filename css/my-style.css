@@ -13,6 +13,7 @@
     position: absolute;
     bottom: 1px;
     width: calc(100% - 25px);
+    max-height: 10%;
     padding: 10px;
     background-color: #9fcdff;
 }
@@ -21,18 +22,20 @@
     height: 40px;
 }
 
-.wi-center{
+.wi-search{
+    background-color:#9fcdff;
+    max-height: 10%;
+}
 
+.wi-center{
+    background-color: #b3d7ff;
+    height: 80%;
 }
 
 .wi-header{
 
 }
 
-.wi-card img{
-    height: 10%;
-    position: relative;
-    display: block;
-}
+
 
 
